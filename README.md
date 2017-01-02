@@ -6,7 +6,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Create your github API keys:
-Navigate to (https://github.com/settings/developer) and create your application, then replace the client_id and client_secret in `github.service.ts` file.
+Navigate to https://github.com/settings/developer and create your application, then replace the client_id and client_secret in `github.service.ts` file.
 
 ## Further help
 
